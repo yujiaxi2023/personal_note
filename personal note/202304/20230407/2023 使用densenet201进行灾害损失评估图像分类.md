@@ -1,0 +1,10 @@
+![[Ground-level_Post-Disaster_Image_Classification_using_DenseNet201_for_Disaster_Damage_Assessment.pdf]]
+这篇文章的标题是“使用DenseNet201进行灾后地面图像分类以评估灾害损失”，作者是来自菲律宾曼塞纳市奎松省Manuel S. Enverga大学基金会计算机与多媒体研究学院的Angelica Denise J. Abadicio等人。文章摘要指出，灾害损失评估是紧急管理机构快速了解自然灾害或其他重大事件影响的一种方式，以便立即派遣资源进行响应和恢复。本研究旨在通过开发一个模型来确定和评估灾害造成的损失，该模型基于DenseNet201架构对图像数据集进行分类，正确预测类别的准确率为90%。此外，该分类模型通过特征提取和微调进一步增强。
+
+[文章的创新点在于使用DenseNet201架构开发了一个模型来评估灾害造成的损失。DenseNet201是一种卷积神经网络，深度为201层。您可以加载一个预先训练过的网络，该网络在ImageNet数据库中训练了超过一百万张图像。预训练网络可以将图像分类为1000个物体类别，如键盘、鼠标、铅笔和许多动物。因此，网络已经学会了丰富的特征表示，适用于各种图像](https://www.kaggle.com/datasets/pytorch/densenet201)[1](https://www.kaggle.com/datasets/pytorch/densenet201)。
+
+采用的迁移学习的方式进行损失图像评估
+
+文章采用的是105张图片进行数据增强后形成的420张图片进行的训练
+
+贝叶斯网络可以进行垃圾邮件的处理工作，多种数据增强是否可以显著增强模型表现

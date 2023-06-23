@@ -1,0 +1,8 @@
+![[personal note/202305/20230511/literature/Incidents1M_A_Large-Scale_Dataset_of_Images_With_Natural_Disasters_Damage_and_Incidents.pdf]]
+从社交媒体上提取事故对应的数据的难点在于需要一个非常强大的深度学习过滤器能够filter掉绝大多数的没有关系的图片
+
+作者从网上找到一个广泛的列表，创建了一个233个事件类别的细粒度列表，然后手动合并视觉上相似的类别，例如snow storm and bizzard 泥石流和泥土流mudslide and mudflow，并删除不太可能识别的类别，例如热浪，虫害，饥荒，然后对于地点，考虑了地点数据集，**79文献**，中的118个室外类别，最后操作剩下49个地点类别
+使用成对的组合创建43x49个，查询谷歌返回的所有图像
+使用预训练模型提取深度特征，然后用最近邻算法聚类最后从6178192张图像中获得了3487339张图像
+
+这个数据集可以进行图像过滤

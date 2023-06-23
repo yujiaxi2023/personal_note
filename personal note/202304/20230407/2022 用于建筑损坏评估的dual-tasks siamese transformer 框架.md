@@ -1,0 +1,15 @@
+![[Dual-Tasks_Siamese_Transformer_Framework_for_Building_Damage_Assessment.pdf]]
+这篇文章的标题是“DUAL-TASKS SIAMESE TRANSFORMER FRAMEWORK FOR BUILDING DAMAGE ASSESSMENT”，作者是Hongruixuan Chen，Edoardo Nemni，Sofia Vallecorsa，Xi Li，Chen Wu和Lars Bromley。文章发表在2022年IEEE国际地球科学与遥感研讨会上。
+
+文章的主要内容是提出了一种基于变压器的损害评估架构（DamFormer），用于建筑物损害评估。该架构首先构建了一个暹罗变压器编码器，从输入的多时相图像对中提取非局部和具有代表性的深度特征。然后，设计了一个多时相融合模块来融合下游任务的信息。最后，一个轻量级的双任务解码器聚合多级特征进行最终预测。
+
+文章的创新点在于首次提出了一种深度基于变压器的网络，用于多时相遥感解释任务。实验结果表明，基于变压器的架构在建筑物损害评估方面优于基于CNN的架构
+
+相比于传统的检测图形特征的网络 文章采用了transformer的网络架构进行特征的识别工作，该文章是2022年发表的文章
+
+是否有可能采用transformer等模型添加进去进行研究
+
+未来的工作像在于damformer架构及其变体应用于认为灾难响应，探索变化检测，土地覆盖和土地利用分类的应用
+
+CNN是提取局部感受野，transformer可以提取非局部的代表性的特征
+可以进行多时相的遥感解释任务

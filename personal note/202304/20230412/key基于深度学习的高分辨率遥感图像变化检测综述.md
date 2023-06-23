@@ -1,0 +1,63 @@
+![[personal note/202304/20230412/literature/remotesensing-14-01552.pdf]]
+
+传统方法提取特征表达性差，显著降低了变化检测的精度，容易收到季节变化，光照影响，微型传感器，太阳高度角等因素的影响
+手工制作的特征严重依赖于特定领域的知识，降低了变化检测技术的自动化能力，这种经验特征empirical feature在表示图像方面很弱
+作者提取了WOS平台中，以change detection和deep learning or neural network的关键词检索获得的文章发表的数量
+![[Pasted image 20230412162856.png]]
+从这里我们可以看出，change detection是一个很热门的研究领域，现在看来，将传统的CD手段转换为deep learning研究条件下的研究还存在有很大的研究空间
+deep learning正在快速的取代遥感在change detection领域的应用
+
+最通常的change detection的解决方案是使用来自相同传感器的**双时相遥感图像**
+双时相数据主要包括合成孔径雷达（SAR）synthetic aperture radar和光学图像
+其中光学图像最常用于变化检测，因为可以提供丰富的光谱和空间信息，根据光谱分辨率，光学图像可以分为：
+高光谱 hyperspectral
+多光谱 multispectral
+全色图像 panchromatic
+
+为了能够尽可能提高空间分辨率，同时保留图像的光谱信息，实际应用中通常将多光谱和全色图像融合在一起。
+与光学图像相比，散斑噪声 speckle noise
+侧视几何形状和不同的微博散射贡献模式 side-looking geometry and differnet microwave scattering contribution patterns 引入了例如layover 和 shadowing的问题
+在密集的城市区域，建筑物经常被部分遮挡，不同建筑物的信号经常混合在一起，这将使得它们难以解释，很多文献中默认的数据来源是高分辨卫星图像
+
+常见用于DL变化检测方法的数据源
+高分系列，worldview系列，ZY系列，Quickvird和VHR航空影像
+
+变化检测的输入是**多时态数据multitemporal data**
+是从一个位置采集的两个或者多个时期的数据
+所以首先应该对输入图像进行配准registered，保证geographical information consistency
+通过颜色，问题，梯度，图像之中的空间几何关系的特征提取器确定代表性特征
+根据区分特征生成变化特征，用于定位和确定变化信息的强度，称为特征融合
+以上两个步骤定义为变化特征信息抽取change information extraction
+最后用变化评价标准evaluation criteria 进行优化过程，最后得到最终的变化图
+目前深度学习的变化检测意图解决特征提取，特征融合和优化的问题
+
+整体的framework可以概括为 change detection extraction， network optimization， accuracy evaluation
+
+![[Pasted image 20230412165704.png]]
+
+深度学习经常采用的模型由
+AE Autoencoder Models，编码器压缩输入，解码器试图从编码器提供的压缩版本重建输入，训练后保存编码器模型，丢弃解码器，编码器就可以作为数据准备技术，就可以提取原始数据的特征，感觉就是线性分类器的
+通过距离度量例如欧式距离，最小化损失函数，一般使用AE都是用多个自动编码器堆叠在一起用于无监督任务中，但是它无法在混合复杂的场景中提取出最佳的识别特征
+
+RNN强化学习和LSTM长短期记忆
+在长期城市变化检测中会比较常用
+
+CNNs和FCNs，最常用的CNNs，全卷积神经网络可以去掉最后的全连接层减少空间信息丢失
+如今的CNN可以用于高分辨率遥感图像分类 deep supervision 可以提高特征提取能力
+
+GANs的优点是恢复了差分信息differential information的完整分布
+
+Transformer在计算机视觉领域可以给与模型有效的基于注意力attention的工具，ViT领域的应用暂时还比较有限
+
+CNN的特征提取feature map的组成情况如图
+![[Pasted image 20230412172859.png]]
+个人认为第三种包含的信息量是最大的，因为每层网络都提取了一次特征
+
+change detection中的过拟合问题一般是由于卫星图太大，包含的信息太多造成的
+
+编码器-解码器的架构可以压缩信息到一个现在算法可以接受的范围
+完全卷积网络，最常用的encoder-decoder CNN，SegNet是通过VGG16改变来的，直接用于变化检测的时候由较低的准确性，还有UNet++模型利用一系列的嵌套和密集的条约连接来实现多尺度特征提取并且价绍由尺度方差引起的伪变化
+使用BiDateNet可以更好的区分时空特性，使用了长短期记忆的卷积块添加到跳跃连接中，还有使用ASPP来提取多尺度的特征
+还有注意力机制改进了CNN模型中使用的平均池化或者最大池化，可以评估不同位置和范围的特征的影响，这种可以使用卷积块注意模块CBAM用于不同阶段的特征在通道和空间方面更加容易识别
+常用的对象检测OD object detection的方法 例如SSD Faster R-CNN和YOLO-5都有潜力进行
+检测中使用Mask R-CNN是一种用于change detection的instance segmentation实例分割的方式
