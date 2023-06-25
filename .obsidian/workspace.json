@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming language learning/Python中文教程/day09/2 文件操作/1 读文件注意事项.md",
+                "file": "programming language learning/机器学习/Tramsformer/论文精讲李沐/Attention is all you need.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming language learning/Python中文教程/day09/2 文件操作/1 读文件注意事项.md",
+                "file": "programming language learning/机器学习/Tramsformer/论文精讲李沐/Attention is all you need.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming language learning/Python中文教程/day09/2 文件操作/1 读文件注意事项.md",
+                "file": "programming language learning/机器学习/Tramsformer/论文精讲李沐/Attention is all you need.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming language learning/Python中文教程/day09/2 文件操作/1 读文件注意事项.md"
+                "file": "programming language learning/机器学习/Tramsformer/论文精讲李沐/Attention is all you need.md"
               }
             }
           }
@@ -146,21 +146,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "3f7904a0ca6739ec",
+  "active": "ba6e3e1edde7b7c4",
   "lastOpenFiles": [
+    "personal note/China US Scientific Engagement on Sustainability Sustainability and Planetary Health Key Issues and Possible Solutions  Workshop II.md",
+    "programming language learning/机器学习/Tramsformer/论文精讲李沐/Attention is all you need.md",
+    "programming language learning/机器学习/Tramsformer/论文精讲李沐/img",
+    "programming language learning/机器学习/Tramsformer/论文精讲李沐",
+    "programming language learning/机器学习/Tramsformer",
+    "programming language learning/Python中文教程/day09/2 文件操作/1 读文件注意事项.md",
     "Environment Engineering",
     "programming language learning/Python中文教程/day09/2 文件操作/img/Pasted image 20230620150303.png",
     "programming language learning/Python中文教程/day09/2 文件操作/img",
-    "programming language learning/Python中文教程/day09/2 文件操作/1 读文件注意事项.md",
     "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/10 多分类问题实战/多分类问题实战.md",
     "programming language learning/Python中文教程/day09/1 概要/概要.md",
     "programming language learning/Python中文教程/day09/2 文件操作/img/Pasted image 20230620150949.png",
@@ -172,7 +177,6 @@
     "personal note/IMAGE/Pasted image 20230621033420.png",
     "personal note/IMAGE/Pasted image 20230621033330.png",
     "personal note/IMAGE/Pasted image 20230621033317.png",
-    "personal note/China US Scientific Engagement on Sustainability Sustainability and Planetary Health Key Issues and Possible Solutions  Workshop II.md",
     "personal note/IMAGE",
     "programming language learning/Python中文教程/day09/2 文件操作",
     "programming language learning/Python中文教程/day09/1 概要/img",
@@ -183,8 +187,6 @@
     "personal note/202304/20230407/2022 自然灾害损害评估中的deformable-DETR优化器的性能评估.md",
     "personal note/202304/20230407/2022 用于建筑损坏评估的dual-tasks siamese transformer 框架.md",
     "personal note/202304/20230407/literature/Ground-level_Post-Disaster_Image_Classification_using_DenseNet201_for_Disaster_Damage_Assessment.pdf",
-    "personal note/202304/20230407/literature/water-15-00875.pdf",
-    "personal note/202304/20230407/literature/Deep_Learning_Benchmarks_and_Datasets_for_Social_Media_Image_Classification_for_Disaster_Response.pdf",
     "personal note/202304/20230423/精读 1997 多时相遥感图像中土地覆盖转变检测的迭代技术.md",
     "personal note/202304/20230422/精读 2023 基于高分辨率遥感和街景影像的城市建筑物洪水易损性评估.md",
     "personal note/202304/20230422/精读 2017 基于迭代慢特征分析和贝叶斯软融合的分类后变化检测方法.md",
@@ -199,9 +201,7 @@
     "personal note/202304/20230424/key 精读 2019 基于深度学习的社交媒体泛洪图片筛选系统原型.md",
     "personal note/202304/20230412/key基于深度学习的高分辨率遥感图像变化检测综述.md",
     "personal note/202304/20230412/key基于深度学习的遥感图像变化检测：综述.md",
-    "personal note/202304/20230418/literature/1-s2.0-S2210670723000781-main.pdf",
     "personal note/202304/20230407/2023 灾难响应系统的持续 VQA.md",
-    "personal note/202304/20230425/2019 xBD：根据卫星图像评估建筑物损坏的数据集.md",
-    "programming language learning/Python中文教程/day09"
+    "personal note/202304/20230425/2019 xBD：根据卫星图像评估建筑物损坏的数据集.md"
   ]
 }
