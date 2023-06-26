@@ -76,4 +76,23 @@ output是value的加权平均
 
 **原文中使用的attention机制**
 点乘两个向量，如果是正交就是0，越大相似度越高
+query和key的长度相等，两个向量内积
+除以根号dk
 使用softmax函数
+实际中的计算Q是一个矩阵包含有很多个query
+K包含有很多个key
+两者每一个值是等长的但是包含的个数是不同的，所以可以转置做乘法
+
+两种常见的注意力机制 additive attention 和 dot-product attention
+前者可以计算不同长度的query和key
+后者可以应用于同样长度的query和key
+
+如果直接使用dimension的值计算的结果会出现梯度弥散的现象，所以使用更好缩小变化，让梯度变到可以计算的程度
+
+在注意力机制中kt会跟所有的q相乘计算，但是transformer中不能够关注t时间之后的信息，所以需要mask掉kt之后的乘积结果
+
+操作方法就是将qt和kt之后计算的值直接替换成一个很大的负数例如-1e的十次方
+softmax之后就会变为0
+
+
+**multi-head**
