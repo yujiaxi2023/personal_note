@@ -1,4 +1,4 @@
-[[1706.03762.pdf]]
+[[programming language learning/机器学习/Tramsformer/论文精讲李沐/1706.03762.pdf]]
 [[1706.03762] Attention Is All You Need (arxiv.org)](https://arxiv.org/abs/1706.03762)
 
 for natural language processing

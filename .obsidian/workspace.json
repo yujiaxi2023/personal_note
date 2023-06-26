@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming language learning/机器学习/Tramsformer/论文精讲李沐/Attention is all you need.md",
+                "file": "programming language learning/机器学习/Tramsformer/DETR检测模型/4 源码实现.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming language learning/机器学习/Tramsformer/论文精讲李沐/Attention is all you need.md",
+                "file": "programming language learning/机器学习/Tramsformer/DETR检测模型/4 源码实现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming language learning/机器学习/Tramsformer/论文精讲李沐/Attention is all you need.md",
+                "file": "programming language learning/机器学习/Tramsformer/DETR检测模型/4 源码实现.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming language learning/机器学习/Tramsformer/论文精讲李沐/Attention is all you need.md"
+                "file": "programming language learning/机器学习/Tramsformer/DETR检测模型/4 源码实现.md"
               }
             }
           }
@@ -157,17 +157,25 @@
   },
   "active": "ba6e3e1edde7b7c4",
   "lastOpenFiles": [
-    "programming language learning/机器学习/Tramsformer/论文精讲李沐/img/Pasted image 20230626100902.png",
+    "programming language learning/机器学习/Tramsformer/DETR检测模型/img/Pasted image 20230626163223.png",
+    "programming language learning/机器学习/Tramsformer/DETR检测模型/4 源码实现.md",
+    "programming language learning/机器学习/Tramsformer/DETR检测模型/img/Pasted image 20230626164251.png",
+    "programming language learning/机器学习/Tramsformer/DETR检测模型/3 训练过程的策略.md",
+    "programming language learning/机器学习/Tramsformer/DETR检测模型/img/img",
+    "programming language learning/机器学习/Tramsformer/DETR检测模型/img/Pasted image 20230626163730.png",
+    "programming language learning/机器学习/Tramsformer/DETR检测模型/img/Pasted image 20230626163654.png",
+    "programming language learning/机器学习/Tramsformer/DETR检测模型/img/Pasted image 20230626161411.png",
+    "programming language learning/机器学习/Tramsformer/DETR检测模型/2 注意力机制的作用方法.md",
+    "programming language learning/机器学习/Tramsformer/DETR检测模型/img",
+    "programming language learning/机器学习/Tramsformer/DETR检测模型/img/Pasted image 20230626162711.png",
+    "programming language learning/机器学习/Tramsformer/DETR检测模型/1 位置信息初始化.md",
+    "programming language learning/机器学习/Tramsformer/DETR检测模型/img/Pasted image 20230626161648.png",
     "programming language learning/机器学习/Tramsformer/论文精讲李沐/Attention is all you need.md",
-    "programming language learning/机器学习/Tramsformer/论文精讲李沐/img/Pasted image 20230626102618.png",
-    "programming language learning/机器学习/Tramsformer/论文精讲李沐/img/Pasted image 20230626102044.png",
-    "programming language learning/机器学习/Tramsformer/论文精讲李沐/img/Pasted image 20230626102031.png",
-    "programming language learning/机器学习/Tramsformer/论文精讲李沐/img/Pasted image 20230626101835.png",
-    "programming language learning/机器学习/Tramsformer/论文精讲李沐/img/Pasted image 20230626101757.png",
-    "programming language learning/机器学习/Tramsformer/论文精讲李沐/img/Pasted image 20230626101659.png",
-    "programming language learning/机器学习/Tramsformer/论文精讲李沐/img/Pasted image 20230626101630.png",
-    "programming language learning/机器学习/Tramsformer/论文精讲李沐/img/Pasted image 20230626101314.png",
-    "programming language learning/机器学习/Tramsformer/论文精讲李沐/img/Pasted image 20230626100930.png",
+    "programming language learning/机器学习/Tramsformer/DETR检测模型",
+    "programming language learning/机器学习/Tramsformer/论文精讲李沐/1706.03762.pdf",
+    "programming language learning/机器学习/Tramsformer/论文精讲李沐/img/Pasted image 20230626153713.png",
+    "programming language learning/机器学习/Tramsformer/论文精讲李沐/img/Pasted image 20230626143702.png",
+    "programming language learning/机器学习/Tramsformer/论文精讲李沐/img/Pasted image 20230626152206.png",
     "personal note/China US Scientific Engagement on Sustainability Sustainability and Planetary Health Key Issues and Possible Solutions  Workshop II.md",
     "programming language learning/机器学习/Tramsformer/论文精讲李沐/img",
     "programming language learning/机器学习/Tramsformer/论文精讲李沐",
@@ -178,15 +186,11 @@
     "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/10 多分类问题实战/多分类问题实战.md",
     "programming language learning/Python中文教程/day09/1 概要/概要.md",
     "personal note/IMAGE",
-    "programming language learning/Python中文教程/day09/2 文件操作",
-    "programming language learning/Python中文教程/day09/1 概要/img",
     "personal note/202304/20230407/2020 为灾害响应的社媒数据分类的深度学习基准和数据库.md",
     "personal note/202304/20230407/2023 洪水或非洪水：使用具有不确定性偏移分析的 FloodNet 数据集对洪水图像分类的最先进模型进行比较研究.md",
     "personal note/202304/20230407/2023 使用densenet201进行灾害损失评估图像分类.md",
-    "programming language learning/Python中文教程/day09/1 概要",
     "personal note/202304/20230407/2022 自然灾害损害评估中的deformable-DETR优化器的性能评估.md",
     "personal note/202304/20230407/2022 用于建筑损坏评估的dual-tasks siamese transformer 框架.md",
-    "personal note/202304/20230407/literature/Ground-level_Post-Disaster_Image_Classification_using_DenseNet201_for_Disaster_Damage_Assessment.pdf",
     "personal note/202304/20230423/精读 1997 多时相遥感图像中土地覆盖转变检测的迭代技术.md",
     "personal note/202304/20230422/精读 2023 基于高分辨率遥感和街景影像的城市建筑物洪水易损性评估.md",
     "personal note/202304/20230422/精读 2017 基于迭代慢特征分析和贝叶斯软融合的分类后变化检测方法.md",
@@ -197,10 +201,6 @@
     "personal note/202304/20230418/key 2023 基于高分辨率遥感和街景影像的城市建筑物洪水易损性评估.md",
     "personal note/202304/20230418/key 1997 多时相遥感图像中土地覆盖转变检测的迭代技术.md",
     "personal note/202304/20230417/评论文章使用遥感数据的数字变化检测技术.md",
-    "personal note/202304/20230424/Key 2022 从社交媒体中提取和分析自然灾害相关的 VGI：回顾、机遇和挑战.md",
-    "personal note/202304/20230424/key 精读 2019 基于深度学习的社交媒体泛洪图片筛选系统原型.md",
-    "personal note/202304/20230412/key基于深度学习的高分辨率遥感图像变化检测综述.md",
-    "personal note/202304/20230412/key基于深度学习的遥感图像变化检测：综述.md",
-    "personal note/202304/20230407/2023 灾难响应系统的持续 VQA.md"
+    "personal note/202304/20230424/Key 2022 从社交媒体中提取和分析自然灾害相关的 VGI：回顾、机遇和挑战.md"
   ]
 }
