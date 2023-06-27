@@ -1,0 +1,11 @@
+![[Performance_Evaluation_of_Optimizers_for_Deformable-DETR_in_Natural_Disaster_Damage_Assessment.pdf]]
+
+根据您提供的页面内容，这篇文章的标题是“Performance Evaluation of Optimizers for Deformable-DETR in Natural Disaster Damage Assessment”，发表在2022年IEEE国际多媒体分析与模式识别会议上。文章的作者是Minh Dinh, Vu L. Bui, Doanh C.Bui, Duong Phi Long, Nguyen D. Vo, Khang Nguyen，他们来自越南胡志明市越南国立大学信息技术大学。
+
+文章的摘要指出，由于气候变化，全球自然灾害变得越来越频繁和严重。计算机视觉领域的最新进展，特别是基于深度学习的技术和无人机遥感技术，可以帮助灾难应对团队评估损害。以前的方法似乎效果不佳或带有归纳偏差，使其在灾害损害评估期间难以进行。在本文中，我们研究了能够快速评估自然灾害后建筑物损坏的基于深度学习的方法。此外，我们研究了Deformable DETR，它是一种改进了基于Transformer架构的目标检测方法DETR的方法，在效率和收敛时间方面都有所改进，同时继承了DETR简单的实现和适应性强的架构，使其适用于损坏检测任务。我们还进行了实验并分析了几种优化器的性能以提高Deformable DETR的性能。
+
+文章创新之处在于，它提出了一种新颖的方法来评估自然灾害后建筑物损坏情况。该方法利用计算机视觉和深度学习技术，并研究了Deformable DETR，这是一种改进了基于Transformer架构的目标检测方法DETR的方法。实验结果表明，该方法在效率和收敛时间方面都有所改进，并且适用于损坏检测任务。
+
+这也是一种transformer架构，提出了一种优化器对地表物体检测进行了优化
+这篇文章采用的是航拍图像作为检测集
+使用resnet模型作为主干进行微调
