@@ -58,7 +58,7 @@ layer norm 就是将batch norm转置
 ![[Pasted image 20230626102031.png]]
 同样，layer norm的表示
 ![[Pasted image 20230626102044.png]]
-对于为什么使用llayer norm更好，有别的文章解释
+对于为什么使用layer norm更好，有别的文章解释
 
 **decoder**
 使用了6个层
