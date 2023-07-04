@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming language learning/机器学习/Tramsformer/DETR检测模型 唐/4 源码实现.md",
+                "file": "personal note/202307/20230704/2021 用于建筑物飓风后空中损坏评估的深度学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming language learning/机器学习/Tramsformer/DETR检测模型 唐/4 源码实现.md",
+                "file": "personal note/202307/20230704/2021 用于建筑物飓风后空中损坏评估的深度学习.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming language learning/机器学习/Tramsformer/DETR检测模型 唐/4 源码实现.md",
+                "file": "personal note/202307/20230704/2021 用于建筑物飓风后空中损坏评估的深度学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming language learning/机器学习/Tramsformer/DETR检测模型 唐/4 源码实现.md"
+                "file": "personal note/202307/20230704/2021 用于建筑物飓风后空中损坏评估的深度学习.md"
               }
             }
           }
@@ -157,12 +157,22 @@
   },
   "active": "13cdc0cd0e2116bc",
   "lastOpenFiles": [
+    "personal note/202307/20230704/2020 利用多模式社交媒体数据进行快速灾害损失评估.md",
+    "personal note/202307/20230704/2021 用于建筑物飓风后空中损坏评估的深度学习.md",
+    "personal note/202307/20230704/literature/1-s2.0-S2212420920312620-main.pdf",
+    "personal note/202307/20230704/2018 危机期间结合人机计算处理社交媒体图像.md",
+    "personal note/202307/20230704/literature/Processing Social Media Images by Combining Human and Machine Computing during Crises.pdf",
+    "personal note/202307/20230704/literature/Computer aided Civil Eng - 2021 - Cheng - Deep learning for post‐hurricane aerial damage assessment of buildings.pdf",
+    "programming language learning/机器学习/Tramsformer/DETR检测模型 唐/4 源码实现.md",
+    "personal note/202307/20230704/literature",
+    "personal note/202307/20230704/img",
+    "personal note/202307/20230704",
+    "personal note/202307",
     "programming language learning/机器学习/Tramsformer/DETR检测模型 唐/3 训练过程的策略.md",
     "programming language learning/机器学习/Tramsformer/DETR检测模型 唐/2 注意力机制的作用方法.md",
     "programming language learning/机器学习/Tramsformer/DETR检测模型 唐/img/Pasted image 20230704143036.png",
     "programming language learning/机器学习/Tramsformer/DETR检测模型 唐/img/Pasted image 20230704142639.png",
     "programming language learning/机器学习/Tramsformer/DETR检测模型 唐/1 位置信息初始化.md",
-    "programming language learning/机器学习/Tramsformer/DETR检测模型 唐/4 源码实现.md",
     "programming language learning/机器学习/Tramsformer/论文精讲李沐/Attention is all you need.md",
     "programming language learning/机器学习/Tramsformer/DETR检测模型 唐/img/Pasted image 20230704142847.png",
     "programming language learning/机器学习/Tramsformer/DETR检测模型 唐/img/Pasted image 20230704142828.png",
@@ -177,14 +187,7 @@
     "programming language learning/机器学习/Tramsformer/Transformer源码/img/Pasted image 20230626211822.png",
     "programming language learning/机器学习/Tramsformer/Transformer源码/img/Pasted image 20230626211608.png",
     "programming language learning/机器学习/Tramsformer/Transformer源码/img/Pasted image 20230626205237.png",
-    "programming language learning/机器学习/Tramsformer/Transformer源码/img",
-    "programming language learning/机器学习/Tramsformer/Transformer源码",
-    "programming language learning/机器学习/Tramsformer/DETR检测模型/img/img",
-    "programming language learning/机器学习/Tramsformer/DETR检测模型 唐/img",
-    "programming language learning/机器学习/Tramsformer/DETR检测模型 唐",
-    "programming language learning/机器学习/Tramsformer/论文精讲李沐/1706.03762.pdf",
     "personal note/China US Scientific Engagement on Sustainability Sustainability and Planetary Health Key Issues and Possible Solutions  Workshop II.md",
-    "programming language learning/机器学习/Tramsformer/论文精讲李沐/img",
     "programming language learning/Python中文教程/day09/2 文件操作/1 读文件注意事项.md",
     "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/10 多分类问题实战/多分类问题实战.md",
     "programming language learning/Python中文教程/day09/1 概要/概要.md",
@@ -198,9 +201,6 @@
     "personal note/202304/20230422/精读 2017 基于迭代慢特征分析和贝叶斯软融合的分类后变化检测方法.md",
     "personal note/202304/20230421/2018 通过结合粗略定位和联合分割改进 VHR 遥感图像中的建筑物变化检测.md",
     "personal note/202304/20230419/2020 使用 Landsat 数据和卷积神经网络检测巴西亚马逊森林砍伐的变化.md",
-    "personal note/202304/20230419/2018 使用 Siamese CNN 进行多模态遥感数据之间的变化检测.md",
-    "personal note/202304/20230418/key 2017 基于迭代慢特征分析和贝叶斯软融合的分类后变化检测方法.md",
-    "personal note/202304/20230418/key 2023 基于高分辨率遥感和街景影像的城市建筑物洪水易损性评估.md",
-    "personal note/202304/20230418/key 1997 多时相遥感图像中土地覆盖转变检测的迭代技术.md"
+    "personal note/202304/20230419/2018 使用 Siamese CNN 进行多模态遥感数据之间的变化检测.md"
   ]
 }
