@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming language learning/Python中文教程/day09/2 文件操作/1 读文件注意事项.md",
+                "file": "personal note/202307/20230705/2023 卫星图像的变化感知采样和对比学习 CVPR.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming language learning/Python中文教程/day09/2 文件操作/1 读文件注意事项.md",
+                "file": "personal note/202307/20230705/2023 卫星图像的变化感知采样和对比学习 CVPR.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming language learning/Python中文教程/day09/2 文件操作/1 读文件注意事项.md",
+                "file": "personal note/202307/20230705/2023 卫星图像的变化感知采样和对比学习 CVPR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming language learning/Python中文教程/day09/2 文件操作/1 读文件注意事项.md"
+                "file": "personal note/202307/20230705/2023 卫星图像的变化感知采样和对比学习 CVPR.md"
               }
             }
           }
@@ -157,22 +157,39 @@
   },
   "active": "13cdc0cd0e2116bc",
   "lastOpenFiles": [
+    "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/img/Pasted image 20230705220235.png",
+    "personal note/202307/20230705/2023 卫星图像的变化感知采样和对比学习 CVPR.md",
+    "personal note/202307/20230705/literature/caco.pdf",
+    "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/5 清空终端内容ctrl l clear.md",
+    "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/img/Pasted image 20230705220638.png",
+    "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/4 光标移动.md",
+    "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/img/Pasted image 20230705220403.png",
+    "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/3 历史命令搜索 感叹号 history ctrl r.md",
+    "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/img/Pasted image 20230705214448.png",
+    "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/img/Pasted image 20230705215818.png",
+    "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/img/Pasted image 20230705215738.png",
+    "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/img/Pasted image 20230705215637.png",
+    "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/img/Pasted image 20230705215540.png",
+    "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/img/Pasted image 20230705215517.png",
+    "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/img/Pasted image 20230705215512.png",
+    "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/2 退出登出 ctrl d.md",
+    "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/1 强制停止 ctrl c.md",
+    "programming language learning/Linux中文教程/3 Linux用户权限/Linux 用户.md",
+    "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/img",
+    "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）",
+    "programming language learning/Linux中文教程/4 linux实用操作",
+    "programming language learning/Python中文教程/day09/2 文件操作/2 写文件.md",
+    "programming language learning/Python中文教程/day09/2 文件操作/1 读文件注意事项.md",
     "programming language learning/机器学习/CS229机器学习/第3周/7 evaluating a model/5 deciding what to try next revisted/2 方差和偏差.md",
-    "programming language learning/机器学习/CS229机器学习/第3周/7 evaluating a model/5 deciding what to try next revisted/img/Pasted image 20230705181108.png",
-    "programming language learning/机器学习/CS229机器学习/第3周/7 evaluating a model/5 deciding what to try next revisted/img/Pasted image 20230705181959.png",
-    "programming language learning/机器学习/CS229机器学习/第3周/7 evaluating a model/5 deciding what to try next revisted/img/Pasted image 20230705181458.png",
     "programming language learning/机器学习/CS229机器学习/第3周/7 evaluating a model/4 diagnosing your model/4 学习曲线.md",
     "programming language learning/机器学习/CS229机器学习/第3周/7 evaluating a model/4 diagnosing your model/3 制定一个性能评估的基准.md",
     "programming language learning/机器学习/CS229机器学习/第3周/7 evaluating a model/4 diagnosing your model/2 正则化 偏差 方差.md",
     "programming language learning/机器学习/CS229机器学习/第3周/7 evaluating a model/4 diagnosing your model/1 通过bias和variance诊断模型.md",
     "programming language learning/机器学习/CS229机器学习/第3周/7 evaluating a model/3 model selection and training cross validation test sets/模型选择和交叉验证测试集的训练方法.md",
     "programming language learning/机器学习/CS229机器学习/第3周/7 evaluating a model/5 deciding what to try next revisted/1 继续修正模型性能.md",
-    "programming language learning/机器学习/CS229机器学习/第3周/7 evaluating a model/5 deciding what to try next revisted/img/Pasted image 20230705165033.png",
-    "programming language learning/机器学习/CS229机器学习/第3周/7 evaluating a model/5 deciding what to try next revisted/img/Pasted image 20230705180705.png",
     "programming language learning/机器学习/CS229机器学习/第3周/7 evaluating a model/1 deciding what to try next/如何自己建立一个有效的model.md",
     "programming language learning/机器学习/CS229机器学习/第3周/7 evaluating a model/5 deciding what to try next revisted/img",
     "programming language learning/机器学习/CS229机器学习/第3周/7 evaluating a model/5 deciding what to try next revisted",
-    "programming language learning/Python中文教程/day09/2 文件操作/1 读文件注意事项.md",
     "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/10 多分类问题实战/多分类问题实战.md",
     "personal note/202307/20230704/2021 用于建筑物飓风后空中损坏评估的深度学习.md",
     "personal note/202307/20230705/literature",
@@ -181,26 +198,9 @@
     "personal note/202307/20230704/2020 利用多模式社交媒体数据进行快速灾害损失评估.md",
     "personal note/202307/20230704/literature/1-s2.0-S2212420920312620-main.pdf",
     "personal note/202307/20230704/2018 危机期间结合人机计算处理社交媒体图像.md",
-    "personal note/202307/20230704/literature/Processing Social Media Images by Combining Human and Machine Computing during Crises.pdf",
-    "personal note/202307/20230704/literature/Computer aided Civil Eng - 2021 - Cheng - Deep learning for post‐hurricane aerial damage assessment of buildings.pdf",
     "programming language learning/机器学习/Tramsformer/DETR检测模型 唐/4 源码实现.md",
-    "personal note/202307/20230704/literature",
-    "personal note/202307/20230704/img",
     "programming language learning/机器学习/Tramsformer/DETR检测模型 唐/3 训练过程的策略.md",
     "programming language learning/机器学习/Tramsformer/DETR检测模型 唐/2 注意力机制的作用方法.md",
-    "programming language learning/机器学习/Tramsformer/DETR检测模型 唐/img/Pasted image 20230704143036.png",
-    "programming language learning/机器学习/Tramsformer/DETR检测模型 唐/img/Pasted image 20230704142639.png",
-    "programming language learning/机器学习/Tramsformer/DETR检测模型 唐/1 位置信息初始化.md",
-    "programming language learning/机器学习/Tramsformer/论文精讲李沐/Attention is all you need.md",
-    "programming language learning/机器学习/Tramsformer/DETR检测模型 唐/img/Pasted image 20230704142847.png",
-    "programming language learning/机器学习/Tramsformer/DETR检测模型 唐/img/Pasted image 20230704142828.png",
-    "programming language learning/机器学习/Tramsformer/Transformer源码/Transformer源码实现.md",
-    "programming language learning/python学习/大麦抢票脚本/大麦网抢票脚本.md",
-    "programming language learning/机器学习/Tramsformer/Transformer源码/img/Pasted image 20230626212217.png",
-    "personal note/China US Scientific Engagement on Sustainability Sustainability and Planetary Health Key Issues and Possible Solutions  Workshop II.md",
-    "programming language learning/Python中文教程/day09/1 概要/概要.md",
-    "personal note/202304/20230407/2020 为灾害响应的社媒数据分类的深度学习基准和数据库.md",
-    "personal note/202304/20230407/2023 洪水或非洪水：使用具有不确定性偏移分析的 FloodNet 数据集对洪水图像分类的最先进模型进行比较研究.md",
-    "personal note/202304/20230407/2023 使用densenet201进行灾害损失评估图像分类.md"
+    "programming language learning/机器学习/Tramsformer/DETR检测模型 唐/1 位置信息初始化.md"
   ]
 }

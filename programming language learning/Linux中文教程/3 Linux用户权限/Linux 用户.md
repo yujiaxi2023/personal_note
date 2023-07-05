@@ -129,3 +129,31 @@ chmod u=rwx,g=rx,o=x hello.txt
 
 ![[Pasted image 20230419172620.png]]
 
+```shell
+chown root hello.txt
+# 将hello.txt所属用户修改为root
+
+chown :root hello.txt
+# 将hello.txt所属用户组修改为root
+
+chown root:yujiaxi hello.txt
+# 将hello.txt所属用户修改为root，所属用户组修改为yujiaxi
+
+chown -R root test
+# 将文件夹test的所属用户修改为root并对文件夹内全部的内容应用同样规则
+```
+![[Pasted image 20230705213239.png]]
+显示没有权限进行修改，这个现在没有root的权限，所以yujiaxi这个普通用户没有权限把文件修改到root用户下
+![[Pasted image 20230705213438.png]]
+这样就修改成功
+接下来是修改用户组
+![[Pasted image 20230705213537.png]]
+
+![[Pasted image 20230705213616.png]]
+这个是两者一起修改
+
+![[Pasted image 20230705213859.png]]
+这里是用-R操作进行修改
+
+**chown总结**
+![[Pasted image 20230705214037.png]]
