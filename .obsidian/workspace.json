@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming language learning/Python中文教程/day09/2 文件操作/2 写文件.md",
+                "file": "programming language learning/Python中文教程/day09/2 文件操作/4 读相关功能.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming language learning/Python中文教程/day09/2 文件操作/2 写文件.md",
+                "file": "programming language learning/Python中文教程/day09/2 文件操作/4 读相关功能.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming language learning/Python中文教程/day09/2 文件操作/2 写文件.md",
+                "file": "programming language learning/Python中文教程/day09/2 文件操作/4 读相关功能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming language learning/Python中文教程/day09/2 文件操作/2 写文件.md"
+                "file": "programming language learning/Python中文教程/day09/2 文件操作/4 读相关功能.md"
               }
             }
           }
@@ -157,8 +157,11 @@
   },
   "active": "13cdc0cd0e2116bc",
   "lastOpenFiles": [
-    "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/4 自动求导机制/自动求导机制.md",
     "programming language learning/Python中文教程/day09/2 文件操作/3 文件打开模式.md",
+    "programming language learning/Python中文教程/day09/2 文件操作/4 读相关功能.md",
+    "personal note/202307/20230707/2023.md",
+    "programming language learning/Python中文教程/day09/2 文件操作/2 写文件.md",
+    "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/4 自动求导机制/自动求导机制.md",
     "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/1 深度学习框架/深度学习框架.md",
     "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/2 安装开发环境/开发环境安装.md",
     "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/7 hub模块简介/Hub模块简介.md",
@@ -190,7 +193,6 @@
     "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/6 常见的tensor格式/img",
     "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/3 基本操作",
     "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/4 自动求导机制",
-    "personal note/202307/20230707/2023.md",
     "personal note/202307/20230705/2023 卫星图像的变化感知采样和对比学习 CVPR.md",
     "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/5 清空终端内容ctrl l clear.md",
     "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/4 光标移动.md",
@@ -198,10 +200,8 @@
     "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/2 退出登出 ctrl d.md",
     "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/1 强制停止 ctrl c.md",
     "programming language learning/Linux中文教程/3 Linux用户权限/Linux 用户.md",
-    "programming language learning/Python中文教程/day09/2 文件操作/2 写文件.md",
     "programming language learning/Python中文教程/day09/2 文件操作/1 读文件注意事项.md",
     "programming language learning/机器学习/CS229机器学习/第3周/7 evaluating a model/5 deciding what to try next revisted/2 方差和偏差.md",
-    "programming language learning/机器学习/CS229机器学习/第3周/7 evaluating a model/4 diagnosing your model/4 学习曲线.md",
-    "programming language learning/机器学习/CS229机器学习/第3周/7 evaluating a model/4 diagnosing your model/3 制定一个性能评估的基准.md"
+    "programming language learning/机器学习/CS229机器学习/第3周/7 evaluating a model/4 diagnosing your model/4 学习曲线.md"
   ]
 }
