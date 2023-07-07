@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/4 光标移动ctrl a ctrl e ctrl 左键 按照分隔符划分的单词ctrl 右键.md",
+                "file": "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/10 多分类问题实战/多分类问题实战.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/4 光标移动ctrl a ctrl e ctrl 左键 按照分隔符划分的单词ctrl 右键.md",
+                "file": "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/10 多分类问题实战/多分类问题实战.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/4 光标移动ctrl a ctrl e ctrl 左键 按照分隔符划分的单词ctrl 右键.md",
+                "file": "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/10 多分类问题实战/多分类问题实战.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/4 光标移动ctrl a ctrl e ctrl 左键 按照分隔符划分的单词ctrl 右键.md"
+                "file": "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/10 多分类问题实战/多分类问题实战.md"
               }
             }
           }
@@ -157,6 +157,9 @@
   },
   "active": "13cdc0cd0e2116bc",
   "lastOpenFiles": [
+    "Pasted image 20230707212630.png",
+    "Pasted image 20230707211830.png",
+    "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/4 光标移动ctrl a ctrl e ctrl 左键 按照分隔符划分的单词ctrl 右键.md",
     "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令/systemctl命令控制软件启动和关闭.md",
     "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令/img/Pasted image 20230707204648.png",
     "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令/img/Pasted image 20230707204119.png",
@@ -167,7 +170,6 @@
     "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令/img/Pasted image 20230707203314.png",
     "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令/img/Pasted image 20230707203232.png",
     "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令/img/Pasted image 20230707203216.png",
-    "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令/img/Pasted image 20230707203147.png",
     "programming language learning/Linux中文教程/4 linux实用操作/2 软件安装/2 apt for Ubuntu/用apt在Ubuntu系统下载.md",
     "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令/img",
     "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令",
@@ -199,7 +201,6 @@
     "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/2 安装开发环境/img",
     "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/1 深度学习框架/img",
     "personal note/202307/20230705/2023 卫星图像的变化感知采样和对比学习 CVPR.md",
-    "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/4 光标移动ctrl a ctrl e ctrl 左键 按照分隔符划分的单词ctrl 右键.md",
     "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/3 历史命令搜索 感叹号 history ctrl r.md",
     "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/2 退出登出 ctrl d.md"
   ]
