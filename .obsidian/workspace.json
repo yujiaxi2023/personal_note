@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming language learning/Python中文教程/day09/2 文件操作/4 读相关功能.md",
+                "file": "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/4 光标移动ctrl a ctrl e ctrl 左键 按照分隔符划分的单词ctrl 右键.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming language learning/Python中文教程/day09/2 文件操作/4 读相关功能.md",
+                "file": "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/4 光标移动ctrl a ctrl e ctrl 左键 按照分隔符划分的单词ctrl 右键.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming language learning/Python中文教程/day09/2 文件操作/4 读相关功能.md",
+                "file": "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/4 光标移动ctrl a ctrl e ctrl 左键 按照分隔符划分的单词ctrl 右键.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming language learning/Python中文教程/day09/2 文件操作/4 读相关功能.md"
+                "file": "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/4 光标移动ctrl a ctrl e ctrl 左键 按照分隔符划分的单词ctrl 右键.md"
               }
             }
           }
@@ -157,8 +157,29 @@
   },
   "active": "13cdc0cd0e2116bc",
   "lastOpenFiles": [
-    "programming language learning/Python中文教程/day09/2 文件操作/3 文件打开模式.md",
+    "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令/systemctl命令控制软件启动和关闭.md",
+    "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令/img/Pasted image 20230707204648.png",
+    "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令/img/Pasted image 20230707204119.png",
+    "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令/img/Pasted image 20230707204029.png",
+    "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令/img/Pasted image 20230707203938.png",
+    "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令/img/Pasted image 20230707203837.png",
+    "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令/img/Pasted image 20230707203735.png",
+    "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令/img/Pasted image 20230707203314.png",
+    "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令/img/Pasted image 20230707203232.png",
+    "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令/img/Pasted image 20230707203216.png",
+    "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令/img/Pasted image 20230707203147.png",
+    "programming language learning/Linux中文教程/4 linux实用操作/2 软件安装/2 apt for Ubuntu/用apt在Ubuntu系统下载.md",
+    "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令/img",
+    "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令",
+    "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/5 清空终端内容ctrl l clear.md",
+    "programming language learning/Linux中文教程/4 linux实用操作/2 软件安装/1 yum for CentOS/为CentOS安装软件.md",
+    "programming language learning/Linux中文教程/4 linux实用操作/2 软件安装/img",
+    "programming language learning/Linux中文教程/4 linux实用操作/2 软件安装/2 apt for Ubuntu",
+    "programming language learning/Linux中文教程/4 linux实用操作/2 软件安装/1 yum for CentOS",
+    "programming language learning/Linux中文教程/4 linux实用操作/2 软件安装",
+    "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/10 多分类问题实战/多分类问题实战.md",
     "programming language learning/Python中文教程/day09/2 文件操作/4 读相关功能.md",
+    "programming language learning/Python中文教程/day09/2 文件操作/3 文件打开模式.md",
     "personal note/202307/20230707/2023.md",
     "programming language learning/Python中文教程/day09/2 文件操作/2 写文件.md",
     "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/4 自动求导机制/自动求导机制.md",
@@ -169,16 +190,6 @@
     "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/5 线性回归DEMO/线性回归DEMO.md",
     "programming language learning/PyTorch中文教程 1 有点门槛暂停/2 分类任务模型/1 气温数据集和任务介绍/气温数据集和任务介绍.md",
     "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/6 常见的tensor格式/常见的tensor格式.md",
-    "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/3 基本操作/img/Pasted image 20230430151911.png",
-    "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/3 基本操作/img/Pasted image 20230430151813.png",
-    "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/3 基本操作/img/Pasted image 20230430151719.png",
-    "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/3 基本操作/img/Pasted image 20230430151534.png",
-    "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/3 基本操作/img/Pasted image 20230430151347.png",
-    "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/3 基本操作/img/Pasted image 20230430151313.png",
-    "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/3 基本操作/img/Pasted image 20230430151227.png",
-    "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/3 基本操作/img/Pasted image 20230430151150.png",
-    "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/3 基本操作/img/Pasted image 20230430151007.png",
-    "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/3 基本操作/img/Pasted image 20230430150812.png",
     "programming language learning/机器学习/CS229机器学习/第3周/7 evaluating a model/5 deciding what to try next revisted/5 添加数据.md",
     "programming language learning/机器学习/CS229机器学习/第3周/7 evaluating a model/5 deciding what to try next revisted/4 误差分析.md",
     "programming language learning/机器学习/CS229机器学习/第3周/7 evaluating a model/5 deciding what to try next revisted/3 机器学习开发的迭代.md",
@@ -187,21 +198,9 @@
     "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/4 自动求导机制/img",
     "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/2 安装开发环境/img",
     "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/1 深度学习框架/img",
-    "programming language learning/PyTorch中文教程 1 有点门槛暂停/2 分类任务模型/1 气温数据集和任务介绍/img",
-    "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/7 hub模块简介/img",
-    "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/5 线性回归DEMO/img",
-    "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/6 常见的tensor格式/img",
-    "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/3 基本操作",
-    "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/4 自动求导机制",
     "personal note/202307/20230705/2023 卫星图像的变化感知采样和对比学习 CVPR.md",
-    "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/5 清空终端内容ctrl l clear.md",
-    "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/4 光标移动.md",
+    "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/4 光标移动ctrl a ctrl e ctrl 左键 按照分隔符划分的单词ctrl 右键.md",
     "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/3 历史命令搜索 感叹号 history ctrl r.md",
-    "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/2 退出登出 ctrl d.md",
-    "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/1 强制停止 ctrl c.md",
-    "programming language learning/Linux中文教程/3 Linux用户权限/Linux 用户.md",
-    "programming language learning/Python中文教程/day09/2 文件操作/1 读文件注意事项.md",
-    "programming language learning/机器学习/CS229机器学习/第3周/7 evaluating a model/5 deciding what to try next revisted/2 方差和偏差.md",
-    "programming language learning/机器学习/CS229机器学习/第3周/7 evaluating a model/4 diagnosing your model/4 学习曲线.md"
+    "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/2 退出登出 ctrl d.md"
   ]
 }
