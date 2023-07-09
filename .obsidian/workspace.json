@@ -11,15 +11,26 @@
             "id": "13cdc0cd0e2116bc",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/11 激活函数和GPU加速/img/Pasted image 20230707225046.png"
+              }
+            }
+          },
+          {
+            "id": "f88b77fe2771c81d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/10 多分类问题实战/多分类问题实战.md",
+                "file": "personal note/202307/20230707/key 2023 推断过去：结合 CNN-LSTM 深度学习框架，融合卫星进行历史洪水测绘.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/10 多分类问题实战/多分类问题实战.md",
+                "file": "personal note/202307/20230707/key 2023 推断过去：结合 CNN-LSTM 深度学习框架，融合卫星进行历史洪水测绘.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/10 多分类问题实战/多分类问题实战.md",
+                "file": "personal note/202307/20230707/key 2023 推断过去：结合 CNN-LSTM 深度学习框架，融合卫星进行历史洪水测绘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/10 多分类问题实战/多分类问题实战.md"
+                "file": "personal note/202307/20230707/key 2023 推断过去：结合 CNN-LSTM 深度学习框架，融合卫星进行历史洪水测绘.md"
               }
             }
           }
@@ -155,21 +166,25 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "13cdc0cd0e2116bc",
+  "active": "f88b77fe2771c81d",
   "lastOpenFiles": [
-    "Pasted image 20230707212630.png",
-    "Pasted image 20230707211830.png",
+    "personal note/202307/20230707/literature/2305.00640.pdf",
+    "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/11 激活函数和GPU加速/img/Pasted image 20230707230242.png",
+    "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/11 激活函数和GPU加速/img/Pasted image 20230707225046.png",
+    "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/11 激活函数和GPU加速/激活函数与GPU加速.md",
+    "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/11 激活函数和GPU加速/img/Pasted image 20230707225757.png",
+    "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/11 激活函数和GPU加速/img/Pasted image 20230707225736.png",
+    "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/11 激活函数和GPU加速/img/Pasted image 20230707225647.png",
+    "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/11 激活函数和GPU加速/img/Pasted image 20230707225602.png",
+    "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/11 激活函数和GPU加速/img/Pasted image 20230707225326.png",
+    "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/11 激活函数和GPU加速/img/Pasted image 20230707225242.png",
+    "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/10 多分类问题实战/多分类问题实战.md",
+    "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/11 激活函数和GPU加速/img",
+    "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/11 激活函数和GPU加速",
+    "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/10 多分类问题实战/img/Pasted image 20230707211830.png",
+    "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/10 多分类问题实战/img/Pasted image 20230707223016.png",
     "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/4 光标移动ctrl a ctrl e ctrl 左键 按照分隔符划分的单词ctrl 右键.md",
     "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令/systemctl命令控制软件启动和关闭.md",
-    "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令/img/Pasted image 20230707204648.png",
-    "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令/img/Pasted image 20230707204119.png",
-    "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令/img/Pasted image 20230707204029.png",
-    "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令/img/Pasted image 20230707203938.png",
-    "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令/img/Pasted image 20230707203837.png",
-    "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令/img/Pasted image 20230707203735.png",
-    "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令/img/Pasted image 20230707203314.png",
-    "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令/img/Pasted image 20230707203232.png",
-    "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令/img/Pasted image 20230707203216.png",
     "programming language learning/Linux中文教程/4 linux实用操作/2 软件安装/2 apt for Ubuntu/用apt在Ubuntu系统下载.md",
     "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令/img",
     "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令",
@@ -179,10 +194,9 @@
     "programming language learning/Linux中文教程/4 linux实用操作/2 软件安装/2 apt for Ubuntu",
     "programming language learning/Linux中文教程/4 linux实用操作/2 软件安装/1 yum for CentOS",
     "programming language learning/Linux中文教程/4 linux实用操作/2 软件安装",
-    "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/10 多分类问题实战/多分类问题实战.md",
     "programming language learning/Python中文教程/day09/2 文件操作/4 读相关功能.md",
     "programming language learning/Python中文教程/day09/2 文件操作/3 文件打开模式.md",
-    "personal note/202307/20230707/2023.md",
+    "personal note/202307/20230707/key 2023 推断过去：结合 CNN-LSTM 深度学习框架，融合卫星进行历史洪水测绘.md",
     "programming language learning/Python中文教程/day09/2 文件操作/2 写文件.md",
     "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/4 自动求导机制/自动求导机制.md",
     "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/1 深度学习框架/深度学习框架.md",
@@ -198,10 +212,7 @@
     "programming language learning/机器学习/CS229机器学习/第3周/7 evaluating a model/5 deciding what to try next revisted/6 transfer learning迁移学习.md",
     "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/3 基本操作/img",
     "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/4 自动求导机制/img",
-    "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/2 安装开发环境/img",
-    "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/1 深度学习框架/img",
     "personal note/202307/20230705/2023 卫星图像的变化感知采样和对比学习 CVPR.md",
-    "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/3 历史命令搜索 感叹号 history ctrl r.md",
-    "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/2 退出登出 ctrl d.md"
+    "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/3 历史命令搜索 感叹号 history ctrl r.md"
   ]
 }
