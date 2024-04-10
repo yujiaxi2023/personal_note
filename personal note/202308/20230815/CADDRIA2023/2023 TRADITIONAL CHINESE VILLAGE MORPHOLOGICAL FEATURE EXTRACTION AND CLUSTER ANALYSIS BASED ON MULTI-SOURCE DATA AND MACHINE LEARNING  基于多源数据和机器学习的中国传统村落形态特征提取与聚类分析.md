@@ -1,0 +1,9 @@
+![[personal note/202308/20230829/literature/1.pdf]]
+
+This study of traditional village morphology provides a possible entry point for understanding the growth patterns of settlements for sustainable development. This study proposes a hybrid data-driven approach to support quantitative morphological descriptions and to further morphology-related studies using opensource map data and deep learning approaches. We construct a dataset of 6819 traditional villages on the Chinese official list with geometrical, geographic and related no-material information. The images containing village buildings combined with roads or other environments are represented in binary to explore the integrated influence of these elements. The neural network is implemented to quantify the morphological features into feature vectors. After dimension reduction, cluster analysis is conducted by calculating the distance between the feature vectors to reveal five main types of Chinese traditional village patterns. The proposed method considers their overall spatial form and other factors such as size, transportation, graphical structure, and density. At the same time, it explores a framework using machine learning in the conservation and renewal work. And it also shows the possibility of data-driven methods for design and decision making.
+
+对传统村落形态的研究为理解聚落的增长模式以实现可持续发展提供了一个可能的切入点。本研究提出了一种混合数据驱动的方法来支持定量形态描述，并使用开源地图数据和深度学习方法进一步进行形态相关研究。我们构建了中国官方名录上 6819 个传统村落的数据集，其中包含几何、地理和相关非物质信息。将包含村庄建筑与道路或其他环境相结合的图像以二进制表示，以探索这些元素的综合影响。神经网络被实现来将形态特征量化为特征向量。降维后，通过计算特征向量之间的距离进行聚类分析，揭示中国传统村落格局的五种主要类型。所提出的方法考虑了它们的整体空间形态和其他因素，例如尺寸、交通、图形结构和密度。同时，探索了在保护和更新工作中使用机器学习的框架。它还展示了数据驱动方法用于设计和决策的可能性。
+
+Keywords. Cluster Analysis, Traditional Village, Morphology, Multi-source Data, Machine Learning, Rural Development
+
+关键词。聚类分析、传统村落、形态学、多源数据、机器学习、乡村发展

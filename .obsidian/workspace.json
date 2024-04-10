@@ -4,26 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "2c12484f89d79b45",
+        "id": "6fa89fd19b154572",
         "type": "tabs",
         "children": [
           {
-            "id": "13cdc0cd0e2116bc",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/11 激活函数和GPU加速/img/Pasted image 20230707225046.png"
-              }
-            }
-          },
-          {
-            "id": "f88b77fe2771c81d",
+            "id": "0d7f4dceaac2307f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal note/202307/20230707/key 2023 推断过去：结合 CNN-LSTM 深度学习框架，融合卫星进行历史洪水测绘.md",
+                "file": "programming language learning/项目相关学习资料/深度学习李沐/11 权重衰退/权重衰退新学习/11.1 权重衰退.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e41102f477560224",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal note/China US Scientific Engagement on Sustainability Sustainability and Planetary Health/China US Scientific Engagement on Sustainability Sustainability and Planetary Health.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#include",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal note/202307/20230707/key 2023 推断过去：结合 CNN-LSTM 深度学习框架，融合卫星进行历史洪水测绘.md",
+                "file": "personal note/China US Scientific Engagement on Sustainability Sustainability and Planetary Health/China US Scientific Engagement on Sustainability Sustainability and Planetary Health.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal note/202307/20230707/key 2023 推断过去：结合 CNN-LSTM 深度学习框架，融合卫星进行历史洪水测绘.md",
+                "file": "personal note/China US Scientific Engagement on Sustainability Sustainability and Planetary Health/China US Scientific Engagement on Sustainability Sustainability and Planetary Health.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal note/202307/20230707/key 2023 推断过去：结合 CNN-LSTM 深度学习框架，融合卫星进行历史洪水测绘.md"
+                "file": "personal note/China US Scientific Engagement on Sustainability Sustainability and Planetary Health/China US Scientific Engagement on Sustainability Sustainability and Planetary Health.md"
               }
             }
           }
@@ -166,53 +168,53 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "f88b77fe2771c81d",
+  "active": "e41102f477560224",
   "lastOpenFiles": [
-    "personal note/202307/20230707/literature/2305.00640.pdf",
-    "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/11 激活函数和GPU加速/img/Pasted image 20230707230242.png",
-    "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/11 激活函数和GPU加速/img/Pasted image 20230707225046.png",
-    "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/11 激活函数和GPU加速/激活函数与GPU加速.md",
-    "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/11 激活函数和GPU加速/img/Pasted image 20230707225757.png",
-    "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/11 激活函数和GPU加速/img/Pasted image 20230707225736.png",
-    "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/11 激活函数和GPU加速/img/Pasted image 20230707225647.png",
-    "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/11 激活函数和GPU加速/img/Pasted image 20230707225602.png",
-    "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/11 激活函数和GPU加速/img/Pasted image 20230707225326.png",
-    "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/11 激活函数和GPU加速/img/Pasted image 20230707225242.png",
-    "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/10 多分类问题实战/多分类问题实战.md",
-    "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/11 激活函数和GPU加速/img",
-    "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/11 激活函数和GPU加速",
-    "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/10 多分类问题实战/img/Pasted image 20230707211830.png",
-    "programming language learning/Pytorch中文教程 2/5 神经网络基本构成/10 多分类问题实战/img/Pasted image 20230707223016.png",
-    "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/4 光标移动ctrl a ctrl e ctrl 左键 按照分隔符划分的单词ctrl 右键.md",
-    "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令/systemctl命令控制软件启动和关闭.md",
-    "programming language learning/Linux中文教程/4 linux实用操作/2 软件安装/2 apt for Ubuntu/用apt在Ubuntu系统下载.md",
-    "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令/img",
-    "programming language learning/Linux中文教程/4 linux实用操作/3 systemstl命令",
-    "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/5 清空终端内容ctrl l clear.md",
-    "programming language learning/Linux中文教程/4 linux实用操作/2 软件安装/1 yum for CentOS/为CentOS安装软件.md",
-    "programming language learning/Linux中文教程/4 linux实用操作/2 软件安装/img",
-    "programming language learning/Linux中文教程/4 linux实用操作/2 软件安装/2 apt for Ubuntu",
-    "programming language learning/Linux中文教程/4 linux实用操作/2 软件安装/1 yum for CentOS",
-    "programming language learning/Linux中文教程/4 linux实用操作/2 软件安装",
-    "programming language learning/Python中文教程/day09/2 文件操作/4 读相关功能.md",
-    "programming language learning/Python中文教程/day09/2 文件操作/3 文件打开模式.md",
-    "personal note/202307/20230707/key 2023 推断过去：结合 CNN-LSTM 深度学习框架，融合卫星进行历史洪水测绘.md",
-    "programming language learning/Python中文教程/day09/2 文件操作/2 写文件.md",
-    "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/4 自动求导机制/自动求导机制.md",
-    "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/1 深度学习框架/深度学习框架.md",
-    "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/2 安装开发环境/开发环境安装.md",
-    "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/7 hub模块简介/Hub模块简介.md",
-    "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/3 基本操作/pytorch基本操作.md",
-    "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/5 线性回归DEMO/线性回归DEMO.md",
-    "programming language learning/PyTorch中文教程 1 有点门槛暂停/2 分类任务模型/1 气温数据集和任务介绍/气温数据集和任务介绍.md",
-    "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/6 常见的tensor格式/常见的tensor格式.md",
-    "programming language learning/机器学习/CS229机器学习/第3周/7 evaluating a model/5 deciding what to try next revisted/5 添加数据.md",
-    "programming language learning/机器学习/CS229机器学习/第3周/7 evaluating a model/5 deciding what to try next revisted/4 误差分析.md",
-    "programming language learning/机器学习/CS229机器学习/第3周/7 evaluating a model/5 deciding what to try next revisted/3 机器学习开发的迭代.md",
-    "programming language learning/机器学习/CS229机器学习/第3周/7 evaluating a model/5 deciding what to try next revisted/6 transfer learning迁移学习.md",
-    "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/3 基本操作/img",
-    "programming language learning/PyTorch中文教程 1 有点门槛暂停/1 pytorch简介/4 自动求导机制/img",
-    "personal note/202307/20230705/2023 卫星图像的变化感知采样和对比学习 CVPR.md",
-    "programming language learning/Linux中文教程/4 linux实用操作/1 各类小技巧（快捷键）/3 历史命令搜索 感叹号 history ctrl r.md"
+    "personal note/202309/20230906/key 2017 Damage Assessment from Social Media Imagery Data During Disasters.md",
+    "personal note/202309/20230907/key 2021SemiCDNet A Semisupervised Convolutional Neural Network for Change Detection in High Resolution Remote Sensing Images  SemiCDNet.md",
+    "personal note/202308/20230801/key 2018 定位和量化社交媒体图像中的损害.md",
+    "personal note/202308/20230815/CAADRIA2022/2022 MACHINE LEARNING TOOL FOR SUSTAINABILITY EVALUATION THE CASE OF NEIGHBOURHOODS DESIGN.md",
+    "personal note/202308/20230815/CAADRIA2022/2022 HOW A FLOODED CITY CAN BE VISUALIZED FROM BOTH THE AIR AND THE GROUND WITH THE CITY DIGITAL TWIN APPROACH.md",
+    "personal note/202308/20230815/CAADRIA2022/2022 A REMOTE SHARING METHOD OF 3D PHYSICAL OBJECTS WITH INSTANCE-SEGMENTED 3D POINT CLOUD ACQUIRED IN REAL TIME.md",
+    "personal note/202308/20230819/key 2022 A novel attention-based deep learning method for post-disaster building damage classification.md",
+    "personal note/202308/20230819/key 2021 Building damage assessment for rapid disaster response with a deep object-based semantic change detection framework From natural disasters to man-made disasters.md",
+    "personal note/202308/20230819/key 2019 Localizing and quantifying infrastructure damage using class activation mapping approaches.md",
+    "personal note/202308/20230829/2023 BOTTOM-UP APPROACH FOR CREATING AN URBAN DIGITAL TWIN PLATFORM AND USE CASES.md",
+    "personal note/202308/20230824/2023 key Post-disaster damage classification based on deep multi-view image fusion.md",
+    "personal note/202308/20230824/2022 key Disaster assessment using computer vision and satellite imagery Applications in detecting water-related building damage.md",
+    "personal note/202308/20230819/2022BUILDING DAMAGE ASSESSMENT WITH DEEP LEARNING.md",
+    "personal note/202308/20230819/2023 key Uncertainty-aware convolutional neural network for explainable artificial intelligence-assisted disaster damage assessment.md",
+    "personal note/202308/20230815/CAADRIA2022/1 总结文献标题.md",
+    "programming language learning/C语言教程-lufi/day02/1 变量.md",
+    "literature reading/GPT辅助论文写作/1 论文写作关键词.md",
+    "programming language learning/项目相关学习资料/深度学习李沐/10 模型选择 过拟合和欠拟合/模型选择新学习/10.2 过拟合和欠拟合.md",
+    "programming language learning/项目相关学习资料/深度学习李沐/9 多层感知机 代码实现/多层感知机新学习/9.1 感知机.md",
+    "programming language learning/项目相关学习资料/深度学习李沐/9 多层感知机 代码实现/多层感知机新学习/9.2 多层感知机 还有前面一些反向传播的求导内容.md",
+    "programming language learning/项目相关学习资料/深度学习李沐/9 多层感知机 代码实现/多层感知机新学习/9.3 多层感知机从零实现.md",
+    "programming language learning/项目相关学习资料/深度学习李沐/9 多层感知机 代码实现/多层感知机新学习/9.4 多层感知机的简洁实现.md",
+    "programming language learning/项目相关学习资料/深度学习李沐/9 多层感知机 代码实现/10 多层感知机.md",
+    "programming language learning/项目相关学习资料/深度学习李沐/10 模型选择 过拟合和欠拟合/10 模型选择.md",
+    "programming language learning/项目相关学习资料/深度学习李沐/10 模型选择 过拟合和欠拟合/11 过拟合和欠拟合.md",
+    "programming language learning/项目相关学习资料/深度学习李沐/11 权重衰退/权重衰退新学习/11.1 权重衰退.md",
+    "programming language learning/Linux中文教程-lufi-2周光速学会linux/3 Linux权限/img/Pasted image 20240315220546.png",
+    "programming language learning/Linux中文教程-lufi-2周光速学会linux/3 Linux权限/img/Pasted image 20240315221354.png",
+    "programming language learning/Linux中文教程-lufi-2周光速学会linux/3 Linux权限/img/Pasted image 20240315220756.png",
+    "programming language learning/Linux中文教程-lufi-2周光速学会linux/3 Linux权限/img",
+    "programming language learning/Linux中文教程-lufi-2周光速学会linux/3 Linux权限",
+    "programming language learning/Linux中文教程-lufi-2周光速学会linux/2 Linux文件管理命令/img/Pasted image 20240315161738.png",
+    "programming language learning/Linux中文教程-lufi-2周光速学会linux/2 Linux文件管理命令/img/Pasted image 20240315154512.png",
+    "programming language learning/Linux中文教程-lufi-2周光速学会linux/2 Linux文件管理命令/img/Pasted image 20240315143702.png",
+    "programming language learning/Linux中文教程-lufi-2周光速学会linux/2 Linux文件管理命令/img/Pasted image 20240314162529.png",
+    "programming language learning/Linux中文教程-lufi-2周光速学会linux/2 Linux文件管理命令/img/Pasted image 20240314145312.png",
+    "programming language learning/Linux中文教程-lufi-2周光速学会linux/2 Linux文件管理命令/img/Pasted image 20240314145627.png",
+    "programming language learning/Linux中文教程-lufi-2周光速学会linux/2 Linux文件管理命令/img/Pasted image 20240314145522.png",
+    "programming language learning/Linux中文教程-lufi-2周光速学会linux/2 Linux文件管理命令/img",
+    "programming language learning/Linux中文教程-lufi-2周光速学会linux/2 Linux文件管理命令",
+    "programming language learning/C语言教程-lufi/day02/img",
+    "programming language learning/C语言教程-lufi/day02/1 变量",
+    "programming language learning/C语言教程-lufi/day02",
+    "programming language learning/C语言教程-lufi/day01/img",
+    "programming language learning/C语言教程-lufi/day01",
+    "programming language learning/计算机科学导论中文教程/day02/1 数字系统"
   ]
 }

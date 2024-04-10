@@ -1,0 +1,15 @@
+![[1-s2.0-S0034425721003564-main.pdf]]
+
+武汉大学顶刊rse
+
+提出的change os 的方式进行快速准确的建筑损失评估工作
+跟siamese unet 进行了比较
+是两年前的顶刊水准，change os的模型
+localization的分数可以是85 damage的分数可以是75
+总体的是78
+
+Sudden-onset natural and man-made disasters represent a threat to the safety of human life and property. Rapid and accurate building damage assessment using bitemporal high spatial resolution (HSR) remote sensing images can quickly and safely provide us with spatial distribution information and statistics of the damage degree to assist with humanitarian assistance and disaster response. For building damage assessment, strong feature representation and semantic consistency are the keys to obtaining a high accuracy. However, the conventional object-based image analysis (OBIA) framework using a patch-based convolutional neural network (CNN) can guarantee semantic consistency, but with weak feature representation, while the Siamese fully convolutional network approach has strong feature representation capabilities but is semantically inconsistent. In this paper, we propose a deep object-based semantic change detection framework, called ChangeOS, for building damage assessment. To seamlessly integrate OBIA and deep learning, we adopt a deep object localization network to generate accurate building objects, in place of the superpixel segmentation commonly used in the conventional OBIA framework. Furthermore, the deep object localization network and deep damage classification network are integrated into a unified semantic change detection network for end-to-end building damage assessment. This also provides deep object features that can supply an object prior to the deep damage classification network for more consistent semantic feature representation. Object-based post-processing is adopted to further guarantee the semantic consistency of each object. The experimental results obtained on a global scale dataset including 19 natural disaster events and two local scale datasets including the Beirut port explosion event and the Bata military barracks explosion event show that ChangeOS is superior to the currently published methods in speed and accuracy, and has a superior generalization ability for man-made disasters.
+
+突发自然灾害和人为灾害对人类生命财产安全构成威胁。利用双时态高空间分辨率（HSR）遥感影像进行快速、准确的建筑受损评估，可以快速、安全地为我们提供受损程度的空间分布信息和统计数据，以协助人道主义援助和灾害应对。对于建筑损伤评估，强大的特征表示和语义一致性是获得高精度的关键。然而，传统的基于对象的图像分析（OBIA）框架使用基于补丁的卷积神经网络（CNN）可以保证语义一致性，但特征表示较弱，而Siamese全卷积网络方法具有较强的特征表示能力，但语义上较差不一致。在本文中，我们提出了一种基于深度对象的语义变化检测框架，称为 ChangeOS，用于构建损坏评估。为了无缝集成 OBIA 和深度学习，我们采用深度对象定位网络来生成精确的建筑对象，代替传统 OBIA 框架中常用的超像素分割。此外，深度对象定位网络和深度损坏分类网络被集成到统一的语义变化检测网络中，用于端到端的建筑物损坏评估。这还提供了深度对象特征，可以在深度损伤分类网络之前提供对象以获得更一致的语义特征表示。采用基于对象的后处理，进一步保证每个对象的语义一致性。在包括19个自然灾害事件的全球尺度数据集和贝鲁特港口爆炸事件和巴塔军营爆炸事件等两个局部尺度数据集上获得的实验结果表明，ChangeOS在速度和准确性上优于目前发布的方法，并且具有对人为灾难具有超强的泛化能力。
+
+使用了深度对象作为添加模块对比了其中的内容

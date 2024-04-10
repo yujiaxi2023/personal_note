@@ -1,0 +1,27 @@
+![[caco.pdf]]
+这篇文章的第一部分讲述了：
+
+- **自监督学习在遥感领域的应用**：作者介绍了利用无标签的卫星图像数据来学习有效的特征表示的方法，以提高各种下游任务的性能。
+- **利用卫星图像的时空结构**：作者提出了一种新的损失函数，称为**变化感知对比（CACo）损失**，它利用卫星图像的长期和短期时间差异来学习对季节变化不变但对永久变化敏感的特征。作者还提出了一种**鲁棒地估计位置是否发生变化**的方法，以及一种**改进的地理采样**方法，以提供更多信息量的数据。
+- **在多个下游任务上的优越性**：作者在不同的遥感应用上评估了他们的方法，包括**土地覆盖分类、变化检测和语义分割**。作者展示了他们的方法相对于现有技术的显著改进（相对提升8.5%和6.5%）。
+
+这篇文章的第二部分讲述了：
+
+- **数据集和实验设置**：作者介绍了他们使用的四个遥感数据集，分别是**EuroSAT、BigEarthNet、Sentinel-2和DynamicEarthNet**，以及他们的数据预处理、模型架构和训练细节。
+- **自监督学习的结果**：作者展示了他们的方法在自监督学习阶段能够学习到有意义的特征表示，通过可视化特征空间、特征激活图和变化检测图。作者还比较了不同的损失函数和采样策略对自监督学习的影响。
+- **下游任务的结果**：作者报告了他们的方法在三个下游任务上的结果，即**土地覆盖分类、变化检测和语义分割**，并与其他基准方法进行了对比。作者证明了他们的方法能够显著提高下游任务的性能，尤其是在跨域和跨时空的场景中。作者还分析了不同的数据量、模型大小和训练时间对下游任务的影响。
+
+该文章采用了一种基于对比学习的自监督学习框架，利用卫星图像的时空结构来学习特征表示。具体来说，该文章提出了一种新的损失函数，称为**变化感知对比（CACo）损失**，它利用长期的时间信息来区分季节性的变化和永久性的变化，并根据变化的估计来调整对比学习的目标。此外，该文章还提出了一种改进的地理采样方法，提供了更多信息量的数据。您可以参考以下链接来了解更多细节：
+
+- [K-textures, a self-supervised hard clustering deep learning algorithm for satellite image segmentation](https://arxiv.org/abs/2205.08671) (arXiv:2205.08671)
+- [Self-supervised pre-training enhances change detection in Sentinel-2 imagery](https://arxiv.org/abs/2101.08122) (arXiv:2101.08122)
+- [K-textures, a self-supervised hard clustering deep learning algorithm for satellite image segmentation](https://www.frontiersin.org/articles/10.3389/fenvs.2022.946729/full) (Frontiers in Environmental Science, 2022)
+- [Self-Supervised Pretraining on Satellite Imagery: a Case Study on Object Detection](https://arxiv.org/abs/2210.11815) (arXiv:2210.11815)
+
+希望这些信息对您有所帮助。😊
+
+Source: Conversation with Bing, 7/5/2023
+(1) K-textures, a self-supervised hard clustering deep learning algorithm .... https://arxiv.org/abs/2205.08671.
+(2) Self-supervised pre-training enhances change detection in Sentinel-2 .... https://arxiv.org/abs/2101.08122.
+(3) Frontiers | K-textures, a self-supervised hard clustering deep learning .... https://www.frontiersin.org/articles/10.3389/fenvs.2022.946729/full.
+(4) [2210.11815] Self-Supervised Pretraining on Satellite Imagery: a Case .... https://arxiv.org/abs/2210.11815.

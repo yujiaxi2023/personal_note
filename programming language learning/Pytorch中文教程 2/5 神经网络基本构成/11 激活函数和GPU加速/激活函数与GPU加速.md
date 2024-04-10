@@ -2,17 +2,17 @@ sigmoid函数适合probability和RGB的重建
 但是这个函数涉及到梯度弥散的情况
 Tanh函数是区间范围更大的sigmoid函数
 也会存在梯度弥散的现象，在RNN中使用的更多
-![[Pasted image 20230707225046.png]]
+![[programming language learning/Pytorch中文教程 2/5 神经网络基本构成/13 Visdom可视化/img/Pasted image 20230707225046.png]]
 
 ReLU函数，阈值小于某一个值就不响应，解决了一定程度的梯度弥散情况
 大于0的部分一定不会出现梯度弥散
-![[Pasted image 20230707225242.png]]
+![[programming language learning/Pytorch中文教程 2/5 神经网络基本构成/13 Visdom可视化/img/Pasted image 20230707225242.png]]
 
 Leaky ReLU函数，改进了x小于0的时候
 将小于0的部分添加了一个很小的斜率
-![[Pasted image 20230707225326.png]]
+![[programming language learning/Pytorch中文教程 2/5 神经网络基本构成/13 Visdom可视化/img/Pasted image 20230707225326.png]]
 
-![[Pasted image 20230707225602.png]]
+![[programming language learning/Pytorch中文教程 2/5 神经网络基本构成/13 Visdom可视化/img/Pasted image 20230707225602.png]]
 
 SELU函数，一种更加光滑的曲线，是两种函数的concat
 ![[Pasted image 20230707225647.png]]

@@ -1,0 +1,7 @@
+City digital twins are becoming increasingly important for the sustainable development of cities, and augmented reality (AR) has been attracting attention as a tool for visualizing city digital twins. In addition, from the perspective of SDG 11, it is essential to manage flood risk in urban spaces. However, there are no case studies that present a bird’s-eye view of a simulated city. Visualizing the state of a flooded city during a disaster is one potential use case. From the perspective of information graphics, people want to understand urban data at the micro and macro levels. This study proposes a city-digital-twin approach for visualizing a simulated city using a large-scale AR and drone integration method that does not require a specific software development kit (SDK). This system can visualize the state of a city flooded by a disaster from both a bird’s-eye view of the city at several tens of metres above it and from a first-person perspective of the user’s area of activity. The applicability of the system is demonstrated through verification and case studies.
+
+城市数字孪生对于城市的可持续发展变得越来越重要，增强现实（AR）作为城市数字孪生可视化的工具一直备受关注。此外，从可持续发展目标11的角度来看，管理城市空间的洪水风险至关重要。然而，还没有案例研究能够鸟瞰模拟城市。可视化灾难期间被洪水淹没的城市的状况是一个潜在的用例。从信息图形的角度来看，人们希望了解微观和宏观层面的城市数据。本研究提出了一种城市数字孪生方法，使用大规模 AR 和无人机集成方法来可视化模拟城市，该方法不需要特定的软件开发工具包 (SDK)。该系统可以从数十米上方的城市鸟瞰图和用户活动区域的第一人称视角来可视化被灾难淹没的城市的状态。通过验证和案例研究证明了该系统的适用性。
+
+Virtual and Augmented Realities; City Digital Twin; Occlusion Handling; Flood Visualization; Web-based Augmented Reality (Web AR); SDG 11
+
+虚拟和增强现实；城市数字孪生；遮挡处理；洪水可视化；基于网络的增强现实（Web AR）；可持续发展目标11
