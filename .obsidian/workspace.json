@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming language learning/项目相关学习资料/深度学习李沐/11 权重衰退/权重衰退新学习/11.1 权重衰退.md",
+                "file": "programming language learning/git教程/10. 关联本地仓库和远程仓库.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal note/China US Scientific Engagement on Sustainability Sustainability and Planetary Health/China US Scientific Engagement on Sustainability Sustainability and Planetary Health.md",
+                "file": "literature reading/semi paper/Full paper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9400b9bb6bf3a70a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "literature reading/semi paper/写作反思.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65513095ffda7ecd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "literature reading/semi paper/latex memo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.51103591918945
+    "width": 200
   },
   "right": {
     "id": "c8f7fd978ffddff2",
@@ -106,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal note/China US Scientific Engagement on Sustainability Sustainability and Planetary Health/China US Scientific Engagement on Sustainability Sustainability and Planetary Health.md",
+                "file": "programming language learning/git教程/10. 关联本地仓库和远程仓库.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal note/China US Scientific Engagement on Sustainability Sustainability and Planetary Health/China US Scientific Engagement on Sustainability Sustainability and Planetary Health.md",
+                "file": "programming language learning/git教程/10. 关联本地仓库和远程仓库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal note/China US Scientific Engagement on Sustainability Sustainability and Planetary Health/China US Scientific Engagement on Sustainability Sustainability and Planetary Health.md"
+                "file": "programming language learning/git教程/10. 关联本地仓库和远程仓库.md"
               }
             }
           }
@@ -168,53 +191,53 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "e41102f477560224",
+  "active": "3f7904a0ca6739ec",
   "lastOpenFiles": [
+    "programming language learning/git教程/img/Pasted image 20240722232459.png",
+    "programming language learning/git教程/img/Pasted image 20240722225825.png",
+    "programming language learning/git教程/10. 关联本地仓库和远程仓库.md",
+    "programming language learning/git教程/9. SSH配置和克隆仓库.md",
+    "programming language learning/git教程/img/Pasted image 20240722230612.png",
+    "programming language learning/git教程/8. .gitignore 忽略文件.md",
+    "programming language learning/git教程/img/Pasted image 20240722221205.png",
+    "programming language learning/git教程/7. 使用git rm删除文件.md",
+    "programming language learning/git教程/6 使用git diff查看差异.md",
+    "programming language learning/git教程/img/Pasted image 20240719173858.png",
+    "programming language learning/git教程/img/Pasted image 20240719174057.png",
+    "programming language learning/git教程/5 git reset回退版本.md",
+    "programming language learning/git教程/4. 添加和提交文件.md",
+    "programming language learning/git教程/3. 工作区域和文件状态.md",
+    "programming language learning/git教程/2. 新建仓库.md",
+    "programming language learning/git教程/img/Pasted image 20240717200521.png",
+    "programming language learning/git教程/img/Pasted image 20240717203805.png",
+    "programming language learning/git教程/img/Pasted image 20240717203344.png",
+    "programming language learning/git教程/img/Pasted image 20240717203305.png",
+    "programming language learning/git教程/img/Pasted image 20240717203005.png",
+    "programming language learning/git教程/1. 安装和初始化.md",
+    "programming language learning/git教程/img",
+    "literature reading/semi paper/Full paper en.md",
+    "programming language learning/git教程",
+    "literature reading/semi paper/Full paper.md",
+    "literature reading/semi paper/latex memo.md",
+    "literature reading/semi paper/latex part.md",
+    "literature reading/GPT辅助论文写作/1 论文写作关键词.md",
+    "literature reading/semi paper/写作反思.md",
+    "literature reading/semi paper/fullpaperimg",
+    "programming language learning/项目相关学习资料/深度学习李沐/11 权重衰退/权重衰退新学习/11.1 权重衰退.md",
+    "literature reading/semi paper",
+    "personal_notebook/GIS洪水分析/未命名.md",
+    "personal note/China US Scientific Engagement on Sustainability Sustainability and Planetary Health/China US Scientific Engagement on Sustainability Sustainability and Planetary Health.md",
     "personal note/202309/20230906/key 2017 Damage Assessment from Social Media Imagery Data During Disasters.md",
     "personal note/202309/20230907/key 2021SemiCDNet A Semisupervised Convolutional Neural Network for Change Detection in High Resolution Remote Sensing Images  SemiCDNet.md",
     "personal note/202308/20230801/key 2018 定位和量化社交媒体图像中的损害.md",
     "personal note/202308/20230815/CAADRIA2022/2022 MACHINE LEARNING TOOL FOR SUSTAINABILITY EVALUATION THE CASE OF NEIGHBOURHOODS DESIGN.md",
     "personal note/202308/20230815/CAADRIA2022/2022 HOW A FLOODED CITY CAN BE VISUALIZED FROM BOTH THE AIR AND THE GROUND WITH THE CITY DIGITAL TWIN APPROACH.md",
     "personal note/202308/20230815/CAADRIA2022/2022 A REMOTE SHARING METHOD OF 3D PHYSICAL OBJECTS WITH INSTANCE-SEGMENTED 3D POINT CLOUD ACQUIRED IN REAL TIME.md",
-    "personal note/202308/20230819/key 2022 A novel attention-based deep learning method for post-disaster building damage classification.md",
-    "personal note/202308/20230819/key 2021 Building damage assessment for rapid disaster response with a deep object-based semantic change detection framework From natural disasters to man-made disasters.md",
-    "personal note/202308/20230819/key 2019 Localizing and quantifying infrastructure damage using class activation mapping approaches.md",
-    "personal note/202308/20230829/2023 BOTTOM-UP APPROACH FOR CREATING AN URBAN DIGITAL TWIN PLATFORM AND USE CASES.md",
-    "personal note/202308/20230824/2023 key Post-disaster damage classification based on deep multi-view image fusion.md",
-    "personal note/202308/20230824/2022 key Disaster assessment using computer vision and satellite imagery Applications in detecting water-related building damage.md",
-    "personal note/202308/20230819/2022BUILDING DAMAGE ASSESSMENT WITH DEEP LEARNING.md",
-    "personal note/202308/20230819/2023 key Uncertainty-aware convolutional neural network for explainable artificial intelligence-assisted disaster damage assessment.md",
-    "personal note/202308/20230815/CAADRIA2022/1 总结文献标题.md",
-    "programming language learning/C语言教程-lufi/day02/1 变量.md",
-    "literature reading/GPT辅助论文写作/1 论文写作关键词.md",
-    "programming language learning/项目相关学习资料/深度学习李沐/10 模型选择 过拟合和欠拟合/模型选择新学习/10.2 过拟合和欠拟合.md",
-    "programming language learning/项目相关学习资料/深度学习李沐/9 多层感知机 代码实现/多层感知机新学习/9.1 感知机.md",
-    "programming language learning/项目相关学习资料/深度学习李沐/9 多层感知机 代码实现/多层感知机新学习/9.2 多层感知机 还有前面一些反向传播的求导内容.md",
-    "programming language learning/项目相关学习资料/深度学习李沐/9 多层感知机 代码实现/多层感知机新学习/9.3 多层感知机从零实现.md",
-    "programming language learning/项目相关学习资料/深度学习李沐/9 多层感知机 代码实现/多层感知机新学习/9.4 多层感知机的简洁实现.md",
-    "programming language learning/项目相关学习资料/深度学习李沐/9 多层感知机 代码实现/10 多层感知机.md",
-    "programming language learning/项目相关学习资料/深度学习李沐/10 模型选择 过拟合和欠拟合/10 模型选择.md",
-    "programming language learning/项目相关学习资料/深度学习李沐/10 模型选择 过拟合和欠拟合/11 过拟合和欠拟合.md",
-    "programming language learning/项目相关学习资料/深度学习李沐/11 权重衰退/权重衰退新学习/11.1 权重衰退.md",
-    "programming language learning/Linux中文教程-lufi-2周光速学会linux/3 Linux权限/img/Pasted image 20240315220546.png",
-    "programming language learning/Linux中文教程-lufi-2周光速学会linux/3 Linux权限/img/Pasted image 20240315221354.png",
-    "programming language learning/Linux中文教程-lufi-2周光速学会linux/3 Linux权限/img/Pasted image 20240315220756.png",
     "programming language learning/Linux中文教程-lufi-2周光速学会linux/3 Linux权限/img",
     "programming language learning/Linux中文教程-lufi-2周光速学会linux/3 Linux权限",
-    "programming language learning/Linux中文教程-lufi-2周光速学会linux/2 Linux文件管理命令/img/Pasted image 20240315161738.png",
-    "programming language learning/Linux中文教程-lufi-2周光速学会linux/2 Linux文件管理命令/img/Pasted image 20240315154512.png",
-    "programming language learning/Linux中文教程-lufi-2周光速学会linux/2 Linux文件管理命令/img/Pasted image 20240315143702.png",
-    "programming language learning/Linux中文教程-lufi-2周光速学会linux/2 Linux文件管理命令/img/Pasted image 20240314162529.png",
-    "programming language learning/Linux中文教程-lufi-2周光速学会linux/2 Linux文件管理命令/img/Pasted image 20240314145312.png",
-    "programming language learning/Linux中文教程-lufi-2周光速学会linux/2 Linux文件管理命令/img/Pasted image 20240314145627.png",
-    "programming language learning/Linux中文教程-lufi-2周光速学会linux/2 Linux文件管理命令/img/Pasted image 20240314145522.png",
     "programming language learning/Linux中文教程-lufi-2周光速学会linux/2 Linux文件管理命令/img",
     "programming language learning/Linux中文教程-lufi-2周光速学会linux/2 Linux文件管理命令",
     "programming language learning/C语言教程-lufi/day02/img",
-    "programming language learning/C语言教程-lufi/day02/1 变量",
-    "programming language learning/C语言教程-lufi/day02",
-    "programming language learning/C语言教程-lufi/day01/img",
-    "programming language learning/C语言教程-lufi/day01",
-    "programming language learning/计算机科学导论中文教程/day02/1 数字系统"
+    "programming language learning/C语言教程-lufi/day02/1 变量"
   ]
 }
